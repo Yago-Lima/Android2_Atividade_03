@@ -2,22 +2,24 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_first_period"
-            android:title="1º Período" />
+            android:id="@+id/nav_primeiro_periodo"
+            android:title="@string/_1_per_odo"
+            />
         <item
-            android:id="@+id/nav_second_period"
-            android:title="2º Período" />
+            android:id="@+id/nav_segundo_periodo"
+            android:title="@string/_2_per_odo" />
         <item
-            android:id="@+id/nav_third_period"
-            android:title="3º Período" />
+            android:id="@+id/nav_terceiro_periodo"
+            android:title="@string/_3_per_odo" />
         <item
-            android:id="@+id/nav_fourth_period"
-            android:title="4º Período" />
+            android:id="@+id/nav_quarto_periodo"
+            android:title="@string/_4_per_odo" />
         <item
-            android:id="@+id/nav_fifth_period"
-            android:title="5º Período" />
+            android:id="@+id/nav_quinto_periodo"
+            android:title="@string/_5_per_odo" />
         <item
-            android:id="@+id/nav_sixth_period"
-            android:title="6º Período" />
+            android:id="@+id/nav_sexto_periodo"
+            android:title="@string/_6_per_odo" />
     </group>
+
 </menu>
