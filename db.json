@@ -1,0 +1,194 @@
+{
+  "cursos": [
+    {
+      "periodo": "1º Período",
+      "disciplinas": [
+        {
+          "componente": "Fundamentos de Redes de Computadores",
+          "codigo": "TCN.0425",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Informática Instrumental",
+          "codigo": "TCN.0621",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Inglês Técnico",
+          "codigo": "TCN.0095",
+          "carga_horaria": "30h"
+        },
+        {
+          "componente": "Introdução À Computação",
+          "codigo": "TCN.0591",
+          "carga_horaria": "66h"
+        },
+        {
+          "componente": "Introdução À Lógica",
+          "codigo": "TCN.0168",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Tendências Tecnológicas Para O Mercado de Ti",
+          "codigo": "TCN.0570",
+          "carga_horaria": "36h"
+        }
+      ]
+    },
+    {
+      "periodo": "2º Período",
+      "disciplinas": [
+        {
+          "componente": "Análise de Sistemas",
+          "codigo": "TCN.0608",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Fundamentos e Projeto de Banco de Dados",
+          "codigo": "TCN.0637",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Introdução À Programação",
+          "codigo": "TCN.0576",
+          "carga_horaria": "80h"
+        },
+        {
+          "componente": "Programação Básica Para Web",
+          "codigo": "TCN.0366",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Programação Orientada À Objetos",
+          "codigo": "TCN.0706",
+          "carga_horaria": "72h"
+        }
+      ]
+    },
+    {
+      "periodo": "3º Período",
+      "disciplinas": [
+        {
+          "componente": "Administração de Sistemas Proprietários",
+          "codigo": "TCN.0406",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Gerenciamento de Dados Para Web",
+          "codigo": "TCN.0375",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Introdução À Conectividade",
+          "codigo": "TCN.0129",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Programação Para Banco de Dados",
+          "codigo": "TCN.0138",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Programação Para Web Designers",
+          "codigo": "TCN.0260",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Programação Para Web I",
+          "codigo": "TCN.0695",
+          "carga_horaria": "72h"
+        }
+      ]
+    },
+    {
+      "periodo": "4º Período",
+      "disciplinas": [
+        {
+          "componente": "Programação Para Web II",
+          "codigo": "TCN.0472",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Projeto de Interface Web",
+          "codigo": "TCN.0218",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Projeto de Sistemas",
+          "codigo": "TCN.0699",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Sistemas Distribuídos e Soa",
+          "codigo": "TCN.0684",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Testes de Software",
+          "codigo": "TCN.0398",
+          "carga_horaria": "36h"
+        }
+      ]
+    },
+    {
+      "periodo": "5º Período",
+      "disciplinas": [
+        {
+          "componente": "Administração de Banco de Dados",
+          "codigo": "TCN.0152",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Infraestrutura Para Sistemas Web",
+          "codigo": "TCN.0489",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Metodologias de Desenvolvimento",
+          "codigo": "TCN.0515",
+          "carga_horaria": "36h"
+        },
+        {
+          "componente": "Novas Tecnologias em Bd",
+          "codigo": "TCN.0016",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Programação Para Dispositivos Móveis I",
+          "codigo": "TCN.0238",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Segurança de Sistemas",
+          "codigo": "TCN.0653",
+          "carga_horaria": "36h"
+        }
+      ]
+    },
+    {
+      "periodo": "6º Período",
+      "disciplinas": [
+        {
+          "componente": "Gerência de Configuração",
+          "codigo": "TCN.0403",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Novas Tecnologias em Desenvolvimento Para Web",
+          "codigo": "TCN.0236",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Padrões de Projeto",
+          "codigo": "TCN.0062",
+          "carga_horaria": "72h"
+        },
+        {
+          "componente": "Programação Para Dispositivos Móveis II",
+          "codigo": "TCN.0013",
+          "carga_horaria": "72h"
+        }
+      ]
+    }
+  ]
+}
